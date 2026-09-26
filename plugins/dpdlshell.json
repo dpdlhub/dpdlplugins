@@ -1,5 +1,6 @@
 {
   "title": "dpdl plugin for executing shell commands",
+  "path": "dpdlshell",
   "enabled": true,
   "actions": [],
   "prompts": null,
