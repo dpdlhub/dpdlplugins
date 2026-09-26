@@ -1,0 +1,7 @@
+{
+  "title": "dpdl plugin for executing shell commands",
+  "enabled": true,
+  "actions": [],
+  "prompts": null,
+  "access": ["./Test", "./data"]
+}
