@@ -13,7 +13,7 @@
 The Dpdl plug-in **`dpdlshell`** allows to execute shell commands
 
 
-## example:
+**simple example:**
 
 ```python
 println("executing some shell commands...")
