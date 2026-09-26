@@ -15,7 +15,7 @@ The Dpdl plug-in **`dpdlshell`** allows to execute shell commands
 
 ## Example
 
-```
+```python
 println("executing some shell commands...")
 
 string mydir_name = "./Test/my_data"
