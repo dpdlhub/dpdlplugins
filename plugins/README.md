@@ -20,7 +20,7 @@ This repository contains Dpdl plug-ins for executing within dpdl code
 
 All plug-ins in this directory follow the DpdlPlugin specification defined at:
 
-[DpdlPlugins.md](https://github.com/Dpdl-io/DpdlEngine/tree/main/doc/specs/DpdlPlugins.md)
+[DpdlPlugins.md](https://github.com/Dpdl-io/DpdlEngine/blob/main/doc/specs/DpdlPlugins.md)
 
 
 ## Plug-in Structure
