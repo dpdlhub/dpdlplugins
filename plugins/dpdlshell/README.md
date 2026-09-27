@@ -24,6 +24,8 @@ string myfile_name = "my_data_archive.tar.gz"
 dpdl_stack_var_put("directory", mydir_name)
 dpdl_stack_var_put("filename", myfile_name)
 
+println("creating a an archive of my data...")
+
 >>shell
 	full_file_path=$mydir_name/$myfile_name
 
