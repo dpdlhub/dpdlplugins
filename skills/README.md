@@ -13,7 +13,7 @@ This repository contains Dpdl skills (aka. Agent Skills)
 
 ## DpdlSkills available:
 
-- [**`dpdllang`**](https://github.com/dpdlhub/dpdlplugins/skills/dpdllang) --> skill for generating dpdl code
+- [**`dpdllang`**](https://github.com/dpdlhub/dpdlplugins/tree/main/skills/dpdllang) --> skill for generating dpdl code
 
 
 ## Specification
