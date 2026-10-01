@@ -44,7 +44,7 @@ println("shell commands exit code: " + exit_code)
 
 ### Specification
 
-The specification is fund here:
+The specification is found here:
 
 [dpdlshell doc](https://www.dpdl.io/doc/dpdlplugins/dpdlshell/SPEC.md)
 
