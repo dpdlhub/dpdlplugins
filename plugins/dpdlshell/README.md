@@ -1,4 +1,4 @@
-# Dpdl plug-in
+# DpdlPlugin
 
 
 <p align="left">
