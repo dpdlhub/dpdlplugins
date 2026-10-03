@@ -13,7 +13,7 @@ This repository contains Dpdl plug-ins for executing within dpdl code
 
 ## DpdlPlugins available:
 
-- [**`dpdlshell`**](https://github.com/dpdlhub/dpdlplugins/blob/main/plugins/dpdlshell.json)
+- [**`dpdlshell`**](https://github.com/dpdlhub/dpdlplugins/blob/main/plugins/dpdlshell.json) -> for executing shell commands
 
 
 ## Specification
