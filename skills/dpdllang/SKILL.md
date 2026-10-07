@@ -1,6 +1,5 @@
 # SKILL.md
 
-```markdown
 ---
 name: dpdl-lang
 description: >
