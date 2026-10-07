@@ -1,5 +1,7 @@
 # SKILL.md
 
+```markdown
+
 ---
 name: dpdl-lang
 description: >
@@ -11,6 +13,7 @@ description: >
   `>>java` sections, or asks to convert/port code to Dpdl.
 license: SEE Solutions / Dpdl-io (see https://www.dpdl.io)
 ---
+```
 
 # Dpdl Language Skill
 
