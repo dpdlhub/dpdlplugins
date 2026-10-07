@@ -19,7 +19,7 @@ license: SEE Solutions / Dpdl-io (see https://www.dpdl.io)
 
 ## Overview
 
-**Dpdl** (**`dpdl-lang)`**) is a general-purpose, self-contained, interpreted programming language
+**Dpdl** (**`dpdl-lang`**) is a general-purpose, self-contained, interpreted programming language
 developed by **SEE Solutions** (www.dpdl.io). It supports dynamic **JVM bytecode** compilation,
 is statically and dynamically typed, has a compact memory footprint, and is portable across
 most platforms. It uniquely allows **embedding other programming languages** (C, C++, Python,
