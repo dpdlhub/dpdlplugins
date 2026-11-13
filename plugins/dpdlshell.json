@@ -1,6 +1,9 @@
 {
+  "name": "dpdlshell",
   "title": "dpdl plugin for executing shell commands",
-  "path": "dpdlshell",
+  "author": "dpdl.io",
+  "repo_url": "https://github.com/dpdlhub/dpdlplugins/tree/78659c200838dbeae299e4d82930ff6711ac6928/plugins",
+  "path": "./dpdlshell",
   "enabled": true,
   "actions": [],
   "prompts": null,
