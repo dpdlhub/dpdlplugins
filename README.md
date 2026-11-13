@@ -9,10 +9,10 @@
 
 # Dpdl plug-ins and configurations repository
 
-## DpdlPlugins
+### DpdlPlugins
 
 [plugins](https://github.com/dpdlhub/dpdlplugins/tree/main/plugins)
 
-## Dpdl SKILLs
+### DpdlSkills
 
 [skills](https://github.com/dpdlhub/dpdlplugins/tree/main/skills)
