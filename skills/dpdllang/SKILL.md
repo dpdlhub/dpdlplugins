@@ -6,9 +6,8 @@
 name: dpdl-lang
 description: >
   Comprehensive skill for writing, reading, and reasoning about Dpdl (dpdl-lang),
-  a general-purpose, interpreted, self-contained programming language with
-  JVM bytecode compilation, embedded multi-language code sections, and JRE/native
-  library interop. Use this skill whenever the user works with `.dpdl` / `.h` Dpdl
+  a general-purpose, mostly interpreted, self-contained programming language,embedded multi-language code sections,
+  and JRE/native library interop. Use this skill whenever the user works with `.dpdl` / `.h` Dpdl
   scripts, mentions "Dpdl", "dpdl-lang", DpdlEngine, embedded `>>python` / `>>c` /
   `>>java` sections, or asks to convert/port code to Dpdl.
 license: SEE Solutions / Dpdl-io (see https://www.dpdl.io)
@@ -19,13 +18,11 @@ license: SEE Solutions / Dpdl-io (see https://www.dpdl.io)
 
 ## Overview
 
-**Dpdl** (**`dpdl-lang`**) is a general-purpose, self-contained, interpreted programming language
-developed by **SEE Solutions** (www.dpdl.io). It supports dynamic **JVM bytecode** compilation,
-is statically and dynamically typed, has a compact memory footprint, and is portable across
-most platforms. It uniquely allows **embedding other programming languages** (C, C++, Python,
-MicroPython, Julia, JavaScript, Lua, Ruby, Java, PHP, Perl, Groovy, V, Clojure, Wgsl, OpenCL)
-directly inside Dpdl code, executed at native speed via **Dpdl language plug-ins** — no extra
-installations required.
+**Dpdl** (**`dpdl-lang`**) is a general-purpose, self-contained, mostly interpreted programming language
+developed by **SEE Solutions** (www.dpdl.io). It is statically and dynamically typed, has a compact memory footprint, 
+and is portable across most platforms. It uniquely allows **embedding other programming languages** (C, C++, Python,
+MicroPython, Julia, JavaScript, Lua, Ruby, Java, PHP, Perl, Groovy, V, Clojure, Wgsl, OpenCL) directly inside Dpdl code, 
+executed at its native speed via dedicated **Dpdl language plug-ins** — no extra installations required.
 
 When to use this skill:
 - User asks to write, debug, explain, or refactor Dpdl code.
