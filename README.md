@@ -6,6 +6,13 @@
 				www.dpdl.io
 				
 
-# dpdlplugins
 
-Dpdl plug-ins and configurations repository
+# Dpdl plug-ins and configurations repository
+
+## DpdlPlugins
+
+[plugins](https://github.com/dpdlhub/dpdlplugins/tree/main/plugins)
+
+## Dpdl SKILLs
+
+[skills](https://github.com/dpdlhub/dpdlplugins/tree/main/skills)
